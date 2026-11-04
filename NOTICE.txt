@@ -1,0 +1,20 @@
+Ozone and deaths in London, 2002-2006
+=====================================
+
+Data:     londondataset2002_2006.dta, as published by the authors with
+          Bhaskaran K, Gasparrini A, Hajat S, Smeeth L, Armstrong B. Time
+          series regression studies in environmental epidemiology. Int J
+          Epidemiol 2013;42(4):1187-1195. doi:10.1093/ije/dyt092
+          Copied from github.com/gasparrini/2013_bhaskaran_IJE_codedata at
+          commit 364752c07e37ab41e14d827480dff106f035ec26, unchanged.
+
+Basis:    The paper states no terms for the data and the repository carries
+          no licence. The authors write that "Stata and R code to reproduce
+          our analyses, along with the dataset itself, are available as a
+          Supplementary Appendix". This example reproduces their analyses, for
+          non-commercial teaching, with citation. That is our reading of their
+          intent, not a licence they have stated. The article is CC BY-NC 3.0.
+
+Changes:  None.
+
+The authors are not associated with this example and have not endorsed it.
