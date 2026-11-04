@@ -11,7 +11,9 @@ Data:     londondataset2002_2006.dta, as published by the authors with
 Basis:    The paper states no terms for the data and the repository carries
           no licence. The authors write that "Stata and R code to reproduce
           our analyses, along with the dataset itself, are available as a
-          Supplementary Appendix". This example reproduces their analyses, for
+          Supplementary Appendix", and the repository's README invites readers
+          to "Download as a ZIP file using the green button Clone or download
+          above". This example reproduces their analyses, for
           non-commercial teaching, with citation. That is our reading of their
           intent, not a licence they have stated. The article is CC BY-NC 3.0.
 
