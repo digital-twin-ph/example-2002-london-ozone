@@ -1,0 +1,32 @@
+{
+  "schema": "fieldwork/example-provenance/1",
+  "retrieved": "2026-11-03",
+  "title": "Daily deaths, ozone and temperature, London, 2002-2006",
+  "source": "https://github.com/gasparrini/2013_bhaskaran_IJE_codedata",
+  "sourceCommit": "364752c07e37ab41e14d827480dff106f035ec26",
+  "files": [
+    {
+      "file": "data/londondataset2002_2006.dta",
+      "sha256": "bbfee9d1891b669089c740241aacb1218345c05efe195b3c9a54dfaedba405ce",
+      "bytes": 34540,
+      "format": "Stata 115"
+    }
+  ],
+  "paper": {
+    "doi": "10.1093/ije/dyt092",
+    "licence": "CC-BY-NC-3.0",
+    "read": "Full text read 2026-11-03 from the author's PDF."
+  },
+  "licence": {
+    "stated": "none",
+    "basis": "The authors publish the dataset with the paper so readers can reproduce the analyses; shared here for non-commercial teaching with citation. Our reading, not a stated licence."
+  },
+  "verification": {
+    "conversion": "0 of 9,130 cells differ between Fieldwork's Stata reader and an independent script",
+    "crude": "A quasi-Poisson fit by hand gives 0.991 (0.987-0.994) per 10 ug/m3, the paper's unadjusted figure"
+  },
+  "limits": [
+    "The paper does not name the sources of the series.",
+    "Adjusted figures need regression, not yet in Fieldwork."
+  ]
+}
