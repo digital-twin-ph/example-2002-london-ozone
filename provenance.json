@@ -19,7 +19,7 @@
   },
   "licence": {
     "stated": "none",
-    "basis": "The authors publish the dataset with the paper so readers can reproduce the analyses; shared here for non-commercial teaching with citation. Our reading, not a stated licence."
+    "basis": "The authors publish the dataset with the paper so readers can reproduce the analyses; shared here for non-commercial teaching with citation. Our reading, not a stated licence. The repository README invites download: \"Download as a ZIP file using the green button Clone or download above\"."
   },
   "verification": {
     "conversion": "0 of 9,130 cells differ between Fieldwork's Stata reader and an independent script",
